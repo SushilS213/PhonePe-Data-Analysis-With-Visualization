@@ -55,6 +55,47 @@ Identified increasing trends in digital payments
 Highlighted states with highest transaction volumes
 Observed category-wise usage patterns (e.g., P2P vs merchant payments)
 
-📈 Outcome
 
-The project provides a clear understanding of digital payment behavior and trends in India. It helps stakeholders make data-driven decisions and showcases strong skills in data analysis, visualization, and dashboard development.
+📊 Data Visualization (Power BI) – Key Points
+
+
+Designed an interactive Power BI dashboard to visualize PhonePe transaction data
+
+
+Created visuals like bar charts, line charts, pie charts, and maps for better insights
+
+
+Displayed KPIs such as Total Transactions, Total Amount, and Growth Rate using cards
+
+
+Used slicers (filters) for dynamic analysis by Year, Quarter, State, and Transaction Type
+
+
+Implemented drill-down features to explore data from state → district level
+
+
+Built time-series analysis to track growth trends across quarters and years
+
+
+Applied data formatting (Millions/Billions) for better readability
+
+
+Used color themes and layout design to improve dashboard UI/UX
+
+
+Highlighted top-performing states and categories using conditional formatting
+
+
+Ensured clean and structured report layout for easy navigation and understanding
+
+
+🎥 Live Dashboard Demo
+🔗 https://drive.google.com/file/d/1J_AJPRcD_kvzv_qJpTQYBoS12WHOoXml/view?usp=drivesdk
+
+👉 This video demonstrates the working Power BI dashboard including filters, KPIs, and insights.
+
+
+
+📈 Conclusion
+
+The project provides a clear understanding of digital payment behaviour and trends in India. It helps stakeholders make data-driven decisions and showcases strong skills in data analysis, visualization, and dashboard development.
