@@ -1,5 +1,6 @@
 # PhonePe-Data-Analysis-With-Visualization
  PhonePe Data Analysis with Visualization
+ 
 🔹 Project Overview
 
 This project focuses on analysing digital payment trends using PhonePe transaction data. The goal is to extract meaningful insights about user behaviour, transaction patterns, and regional performance across India. By applying data analysis and visualization techniques, the project helps understand how digital payments are growing, which states contribute the most, and how different transaction types vary over time. The final output is an interactive dashboard that enables users to explore key metrics such as total transactions, transaction value, and category-wise distribution.
