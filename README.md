@@ -56,7 +56,9 @@ Highlighted states with highest transaction volumes
 Observed category-wise usage patterns (e.g., P2P vs merchant payments)
 
 
-📊 Data Visualization (Power BI) – Key Points
+📊 Data Visualization (Power BI) – 
+
+.Key Points
 
 
 Designed an interactive Power BI dashboard to visualize PhonePe transaction data
@@ -90,6 +92,7 @@ Ensured clean and structured report layout for easy navigation and understanding
 
 
 🎥 Live Dashboard Demo
+
 🔗 https://drive.google.com/file/d/1J_AJPRcD_kvzv_qJpTQYBoS12WHOoXml/view?usp=drivesdk
 
 👉 This video demonstrates the working Power BI dashboard including filters, KPIs, and insights.
