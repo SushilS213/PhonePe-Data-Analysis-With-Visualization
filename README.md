@@ -5,12 +5,14 @@
 
 This project focuses on analysing digital payment trends using PhonePe transaction data. The goal is to extract meaningful insights about user behaviour, transaction patterns, and regional performance across India. By applying data analysis and visualization techniques, the project helps understand how digital payments are growing, which states contribute the most, and how different transaction types vary over time. The final output is an interactive dashboard that enables users to explore key metrics such as total transactions, transaction value, and category-wise distribution.
 
+
 🛠️ Tools & Technologies Used
 Python – Data cleaning and preprocessing
 Pandas & NumPy – Data manipulation and analysis
 Matplotlib / Seaborn – Data visualization (initial exploration)
 Power BI – Interactive dashboard creation
 Excel / CSV – Dataset storage and handling
+
 📁 Dataset Information (Key Columns)
 
 The dataset contains transaction-level and aggregated data related to PhonePe usage across different regions. Important columns include:
@@ -23,6 +25,7 @@ Transaction Amount – Total value of transactions (₹)
 User Count – Number of registered or active users
 District / Pincode (if available) – More granular location data
 Brand / Device (optional) – Device or platform used for transactions
+
 🔄 Project Workflow
 1. Data Collection
 Imported raw data from Excel/CSV files
@@ -51,6 +54,7 @@ Ensured clean UI with consistent formatting and layout
 Identified increasing trends in digital payments
 Highlighted states with highest transaction volumes
 Observed category-wise usage patterns (e.g., P2P vs merchant payments)
+
 📈 Outcome
 
 The project provides a clear understanding of digital payment behavior and trends in India. It helps stakeholders make data-driven decisions and showcases strong skills in data analysis, visualization, and dashboard development.
